@@ -1,4 +1,7 @@
 <p align="center">
+    <a href="https://github.com/Developix-ir">
+        <img src="Assets/Group.png" alt="Pyrogram" width="128">
+    </a>
     <h2>Small Library to Serve Images in PHP</h2>
     <br>
     <a href="https://github.com/Developix-ir/DPXImageServer#key-features">
