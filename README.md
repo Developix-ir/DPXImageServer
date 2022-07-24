@@ -1,5 +1,5 @@
 <p align="center">
-    <b>Small Library to Serve Images in PHP</b>
+    <h2>Small Library to Serve Images in PHP</h2>
     <br>
     <a href="https://github.com/Developix-ir/DPXImageServer#key-features">
         Features
