@@ -1,0 +1,27 @@
+<svg id="RO" xmlns="http://www.w3.org/2000/svg" width="329.125" height="422.781" viewBox="0 0 329.125 422.781">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="R">
+    <rect class="cls-1" width="154" height="46"/>
+    <path class="cls-2" d="M482,556.343l47-.686v154l-47-27.135V556.343Z" transform="translate(-375 -287)"/>
+    <path class="cls-2" d="M482,331.477l47,1.028V462.042l-47,39.435v-170Z" transform="translate(-375 -287)"/>
+    <path class="cls-2" d="M529,651.523L482,650.5V520.958l47-39.435v170Z" transform="translate(-375 -287)"/>
+    <path class="cls-2" d="M397.651,405.731l131.342,75.831-22.651,39.232L375,444.963Z" transform="translate(-375 -287)"/>
+    <path class="cls-2" d="M375,322.163l46-.326v324l-46-26.558V322.163Z" transform="translate(-375 -287)"/>
+  </g>
+  <g id="O">
+    <rect class="cls-1" x="175" width="154" height="46"/>
+    <rect class="cls-1" x="282" y="38" width="47" height="295"/>
+    <path class="cls-2" d="M559.878,651.081l121.244-70,23,39.838-121.244,70Z" transform="translate(-375 -287)"/>
+    <path class="cls-2" d="M550,326.773l47,0.454v355.41l-47,27.136v-383Z" transform="translate(-375 -287)"/>
+  </g>
+</svg>
