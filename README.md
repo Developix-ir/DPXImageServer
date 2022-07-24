@@ -95,3 +95,4 @@ You can participate in this project by sending a pull request in sections such a
 - [**Technical**](https://github.com/Developix-ir/DPXImageServer/blob/main/DPXImageServer.php)
 - [**Markdown**](https://github.com/Developix-ir/DPXImageServer/blob/main/README.md)(README.md)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
