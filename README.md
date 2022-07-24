@@ -81,11 +81,11 @@ There is only a function `DPXServeImage` with these parameters :
 if Image file you have given is not found or an Invalid format, `DPXServerImage` would return false
 also keep in mind that if you pass only one of width or height params, the other one will be calculated respectivly.
 
-### Contributing
+## Contributing
 
 You can participate in this project by sending a pull request in sections such as:
 
-- **Document**
-- **Technical**
-- **Markdown**(README.md)
+- [**Document**](https://github.com/Developix-ir/DPXImageServer#documentation)
+- [**Technical**](https://github.com/Developix-ir/DPXImageServer/blob/main/DPXImageServer.php)
+- [**Markdown**](https://github.com/Developix-ir/DPXImageServer/blob/main/README.md)(README.md)
 
