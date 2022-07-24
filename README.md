@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Developix-ir">
-        <img src="Assets/Group.png" alt="Pyrogram" width="128">
+        <img src="Assets/DP_Colorite.svg" alt="Pyrogram" width="128">
     </a>
     <br>
     <b>Small Library to Serve Images in PHP</b>
