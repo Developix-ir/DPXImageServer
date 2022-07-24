@@ -14,6 +14,10 @@
         Documentation
     </a>
     •
+    <a href="https://github.com/Developix-ir/DPXImageServer#contributing">
+        Contributing
+    </a>
+    •
     <a href="LICENSE.md">
         License
     </a>
@@ -82,6 +86,8 @@ if Image file you have given is not found or an Invalid format, `DPXServerImage`
 also keep in mind that if you pass only one of width or height params, the other one will be calculated respectivly.
 
 ## Contributing
+
+This project is released and maintained under the GPL version 3 license, and in this sense, anyone can contribute to modify or improve or even add new features to this project, as well as create different forks of the project and develop the project in a branch. Separately, whether for free or commercially, there is no obstacle.
 
 You can participate in this project by sending a pull request in sections such as:
 
