@@ -28,9 +28,9 @@
 > Small Library to Serve Images in PHP in a Better Way (Resize, Compress) with Caching Support.
 
 ```PHP
-                            ├─ $width ├─ $quality ├─ $cache
+                           ├─ $width ├─ $quality ├─ $cache
 DPXServeImage("image.png", 512, 256, 80, true, true);
-                └─ $file_path    └─ $height └─ $output_image
+               └─ $file_path    └─ $height └─ $output_image
 ```
 
 A library for serving images and optimizing, changing their sizes, this library uses the caching feature, and in addition, it is very fast and small in size. In addition to these features, this library also optimizes images.
