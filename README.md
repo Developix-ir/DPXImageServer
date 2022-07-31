@@ -24,7 +24,7 @@
     <br>
     <br>
     <a href="https://github.com/developix-ir/DPXImageServer/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="License"></a>
-    <a href="https://www.php.net/releases/7_1_0.php"><img src="https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg" alt="Minimum PHP version" </a>
+    <a href="https://www.php.net/releases/7_1_0.php"><img src="https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg" alt="Minimum PHP version"> </a>
 </p>
 
 ### DPXImageServer
