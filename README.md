@@ -1,5 +1,3 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/developix-ir/DPXImageServer/blob/main/LICENSE.md) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg)](https://www.php.net/releases/7_1_0.php)
-
 <p align="center">
     <a href="https://github.com/Developix-ir">
         <img src="Assets/DP_Colorite.svg" alt="Developix" width="128">
@@ -23,6 +21,10 @@
     <a href="LICENSE.md">
         License
     </a>
+    <br>
+    <br>
+    <a href="https://github.com/developix-ir/DPXImageServer/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="License"></a>
+    <a href="https://www.php.net/releases/7_1_0.php"><img src="https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg" alt="Minimum PHP version"> </a>
 </p>
 
 ### DPXImageServer
