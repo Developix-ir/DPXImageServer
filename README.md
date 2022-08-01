@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Developix-ir">
-        <img src="Assets/DP_Colorite.svg" alt="Developix" width="128">
+        <img src="Assets/DP.svg" alt="Developix" width="128">
     </a>
     <br>
     <br>
