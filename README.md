@@ -20,7 +20,7 @@
     <br>
     <br>
     <a href="https://github.com/developix-ir/DPXImageServer/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="License"></a>
-    <a href="https://www.php.net/releases/7_1_0.php"><img src="https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg" alt="Minimum PHP version"> </a> <a href="https://www.codefactor.io/repository/github/developix-ir/dpximageserver"><img src="https://www.codefactor.io/repository/github/developix-ir/dpximageserver/badge" alt="CodeFactor" /> </a> 
+    <a href="https://www.php.net/releases/7_1_0.php"><img src="https://img.shields.io/badge/php-%3E%3D_7.1.0-8892BF.svg" alt="Minimum PHP version"> </a> 
 </p>
 
 ### DPXImageServer
@@ -34,6 +34,8 @@ DPXServeImage("image.png", 512, 256, 80, true, true);
 ```
 
 A library for serving images and optimizing, changing their sizes, this library uses the caching feature, and in addition, it is very fast and small in size. In addition to these features, this library also optimizes images.
+
+[![CodeFactor](https://www.codefactor.io/repository/github/developix-ir/dpximageserver/badge)](https://www.codefactor.io/repository/github/developix-ir/dpximageserver)
 
 ### Key Features
 
