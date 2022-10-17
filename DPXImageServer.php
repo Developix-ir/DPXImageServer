@@ -2,14 +2,14 @@
 /*
     Author: Erfan Mola
     https://Developix.ir
-    Version: 1.0.1
+    Version: 1.0.2
 */
 
 defined('DPXImageServer_Storage') or define('DPXImageServer_Storage', __DIR__ . "/DPXImageServerStorage");
 defined('DPXImageServer_TTL') or define('DPXImageServer_TTL', 365 * 86400);
 defined('DPXImageServer_PNGQuant') or define('DPXImageServer_PNGQuant', "pngquant");
 
-function DPXServeImage(string $file_path, int $width = null, int $height = null, int $quality = 80, bool $output_image = true, bool $cache = true) {
+function DPXServeImage(string $file_path, int $width = null, int $height = null, int $quality = 80, bool $output_image = true, bool $cache = true, $return_filepath_only = false) {
 
     if (file_exists($file_path)) {
 
@@ -137,15 +137,23 @@ function DPXServeImage(string $file_path, int $width = null, int $height = null,
 
             }
 
-            if ($output_image) {
+            if ($return_filepath_only) {
 
-                header("Content-Type: $mime");
-                header("Content-Length: " . strlen($image));
-                die($image);
+                return DPXImageServer_Storage . "/$filename";
 
             }else{
 
-                return $image;
+                if ($output_image) {
+
+                    header("Content-Type: $mime");
+                    header("Content-Length: " . strlen($image));
+                    die($image);
+
+                }else{
+
+                    return $image;
+
+                }
 
             }
 
